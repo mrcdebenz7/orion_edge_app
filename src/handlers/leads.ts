@@ -1,0 +1,1 @@
+import {supaInsert} from '../tools'; export const importLeads=async(env:any,client:string,leads:any[])=>{const res:any[]=[]; for(const L of leads){const r=await supaInsert(env,'leads',{name:L.name||null,email:L.email,role:L.role||null,website:L.website||null,pain_point:L.pain_point||null}); res.push({email:L.email,ok:r.ok});} return {ok:true,results:res}; }

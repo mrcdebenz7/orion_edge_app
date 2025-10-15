@@ -1,0 +1,2 @@
+name,domain,plan,from_email,resend_domain,kb_url
+Acme Store,acme.com,Basic,support@acme.com,mail.acme.com,https://cdn.acme.com/kb.json
