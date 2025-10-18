@@ -1,2 +1,4 @@
-/docs/kit/*     @you @agent0
-/content/*      @you @agent12
+/docs/kit/*                  @you @agent0
+/content/marketing/*         @you @agent12
+/src/utils/preferences.ts    @you @agent1
+
