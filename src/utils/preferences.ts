@@ -57,11 +57,14 @@ export const defaultOrionEdgeWebPreferences: OrionEdgeWebPreferences = {
 export const createOrionEdgeWebPreferences = (
     v: OrionEdgeWebPreferences,
 ): OrionEdgeWebPreferences => {
+    // Create a deep copy to avoid mutating the original object.
+    const newPrefs = JSON.parse(JSON.stringify(v));
+
     if (process.env.NODE_ENV === "development") {
-        v.sidebar.primary.layout = v.sidebar.primary.layout.filter(
+        newPrefs.sidebar.primary.layout = newPrefs.sidebar.primary.layout.filter(
             (tool) => !["version-control", "plugins"].includes(tool.id),
         );
     }
 
-    return v;
+    return newPrefs;
 };
