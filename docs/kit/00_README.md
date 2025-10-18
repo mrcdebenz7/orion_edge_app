@@ -10,6 +10,26 @@ Artifacts included:
 - docs/kit/faqpacks/pets.json
 - docs/kit/faqpacks/home_garden.json
 
+## Tone column guidance
+Use `Tone` to hint the reply style per row:
+- `brand_default`: Use the brand’s standard tone from prompts.
+- `concise`: Extra short; prioritize brevity and clarity.
+- `empathetic`: Acknowledge concern before answering.
+Mapping: the app should pass Tone → small style modifiers in the prompt (never change facts).
+
+## Attribution / source_notes
+Keep `Source/Notes` consistent:
+- `kb:...` for internal KB docs (e.g., `kb:returns/v2`).
+- `policy:https://...` for public policy pages.
+- `faqpack:<vertical>/<intent>` for vertical packs.
+Prefer internal KB over public pages when both exist.
+
+## Import instructions (GS/Excel/Notion)
+- Google Sheets: File → Import → Upload CSV → Insert new sheet; set column types; keep header row.
+- Excel: Data → From Text/CSV → UTF‑8; comma‑separated; confirm columns.
+- Notion: New Database → Import → CSV; map columns to properties.
+After import, spot‑check 3 rows and run the CSV generator for vertical packs.
+
 ## DO NOT
 - Duplicate files in other folders
 - Change numbering
