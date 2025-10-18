@@ -151,7 +151,7 @@ Next update: {+30m}
 
 - ≤60 words, 1–2 short sentences, plain language.
 - No payment/PII requests. Offer **email opt‑in** only.
-- If unknown: “I don’t have that yet. Want a quick follow‑up by email?”
+- If unknown: “I’m not sure on that. Let me have a teammate follow up—what’s your email?”
 - If degraded: “We’re fixing a hiccup—reply may be delayed.”
 - Tone: helpful, specific, never over‑promise.
 
@@ -172,7 +172,7 @@ Next update: {+30m}
 ### Zap 1 — Log every interaction to Google Sheets
 
 - **Trigger:** ManyChat/Landbot “New Conversation”
-- **Actions:** Formatter (clean text) → GSheet **Interactions!A**\*\*:K\*\*
+- **Actions:** Formatter (clean text) → GSheet **Interactions!A:K**
 - **Fields:** timestamp, client, user\_id, channel, intent, matched\_faq(bool), ai\_used(bool), response\_ms, handoff(bool), email\_captured, transcript\_url
 
 ### Zap 2 — Unknown → Slack ticket
@@ -1359,7 +1359,7 @@ Also produce a Rollback Plan and a Maintenance Mode message in case of outage.
 1. **Open Landbot** → *Settings → Channels → Web* → toggle **Embed ON** → copy the **script**.
 2. **Allowlisted domains**: add your site domain(s).
 3. **Add script to site header**:
-   - **Shopify**: Online Store → Themes → *Edit code* → `theme.liquid` → paste before `</head>` → Save.
+   - **Shopify**: Online Store → Themes → *Edit code* → `theme.liquid` → paste **before `</head>`** → Save.
    - **Wix**: Settings → **Tracking & Analytics** → **Custom Code** → paste → **All pages**, load **Head**.
    - **Squarespace**: Settings → **Advanced → Code Injection → Header** → paste.
    - **WordPress**: Use **Header & Footer** plugin → paste in **Header**.
@@ -1708,7 +1708,7 @@ Overages (per 1k interactions),Blocks,per 1000,25, ,Auto‑calculated
 
 ---
 
-#### PASS/FAIL — Agent 9 Package
+#### PASS/FAIL — Agent 11 Package
 
 - **PASS** if: check‑in email template includes the 4 metrics + 3 unknowns; 2–3 pricing options with features & caps; agreement bullets cover scope/SLA/updates/data/privacy; invoice templates provided (table + CSV); referral ask included. Else **FAIL**.
 

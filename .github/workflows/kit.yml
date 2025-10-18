@@ -1,21 +1,19 @@
 name: Kit Checks
 
 on:
-  pull_request:
-    branches: [ main ]
+    pull_request:
+        branches: [main]
 
 jobs:
-  faq_csv:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-      - run: npm ci || npm i
-      - run: npm run faq:csv
-      - run: node tests/faq_csv.test.js
-      - name: Fail if CSVs changed
-        run: git diff --exit-code || (echo "CSV files changed. Commit regenerated CSVs." && exit 1)
-
-
+    faq_csv:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
+            - uses: actions/setup-node@v4
+              with:
+                  node-version: "22"
+            - run: npm ci || npm i
+            - run: npm run faq:csv
+            - run: node tests/faq_csv.test.js
+            - name: Fail if CSVs changed
+              run: git diff --exit-code || (echo "CSV files changed. Commit regenerated CSVs." && exit 1)
