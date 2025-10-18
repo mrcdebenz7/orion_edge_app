@@ -1,1 +1,14 @@
-import {supaInsert} from '../tools'; export const importClients=async(env:any,list:any[])=>{const out:any[]=[]; for(const c of list){const r=await supaInsert(env,'clients',{name:c.name,domain:c.domain||null,plan:c.plan||'Basic'}); out.push({name:c.name,ok:r.ok});} return {ok:true,results:out}; }
+import { supaInsert } from '../tools';
+
+export const importClients = async (env: any, list: any[]) => {
+  const out: any[] = [];
+  for (const c of list) {
+    const r = await supaInsert(env, 'clients', {
+      name: c.name,
+      domain: c.domain ?? null,
+      plan: c.plan ?? 'Basic',
+    });
+    out.push({ name: c.name, ok: r.ok });
+  }
+  return { ok: true, results: out };
+};

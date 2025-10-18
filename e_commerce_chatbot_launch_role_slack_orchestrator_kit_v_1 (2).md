@@ -37,15 +37,15 @@
 
 #### RACI (artifacts)
 
-| Artifact                | A | R  | C         | I                   |
-| ----------------------- | - | -- | --------- | ------------------- |
-| roles\_matrix.md        | 0 | 0  | 1,2,3     | 4–12                |
-| slack\_channels.md      | 0 | 7  | 6,12      | 1,2,3,4,5,8,9,10,11 |
-| message\_standards.md   | 0 | 4  | 7,11      | all                 |
-| automation\_specs.md    | 0 | 6  | 1,4,5,7,8 | 2,3,9,10,12         |
-| webhook\_contracts.json | 0 | 7  | 6         | 1–6,8–12            |
-| incident\_runbook.md    | 0 | 12 | 7,6       | 1–11                |
-| governance\_security.md | 0 | 9  | 12,7      | all                 |
+| Artifact                | A   | R   | C         | I                   |
+| ----------------------- | --- | --- | --------- | ------------------- |
+| roles\_matrix.md        | 0   | 0   | 1,2,3     | 4–12                |
+| slack\_channels.md      | 0   | 7   | 6,12      | 1,2,3,4,5,8,9,10,11 |
+| message\_standards.md   | 0   | 4   | 7,11      | all                 |
+| automation\_specs.md    | 0   | 6   | 1,4,5,7,8 | 2,3,9,10,12         |
+| webhook\_contracts.json | 0   | 7   | 6         | 1–6,8–12            |
+| incident\_runbook.md    | 0   | 12  | 7,6       | 1–11                |
+| governance\_security.md | 0   | 9   | 12,7      | all                 |
 
 #### Inter‑Agent Dependencies & Handoffs
 
@@ -449,7 +449,7 @@ Create a 7-day execution plan with owned tasks and deliverables for Agents 1–1
 
 ```
 | Day | Goal | Key Tasks (Agent→Deliverable) | Artifacts/Links | PASS/FAIL Check | Owner | RAG | Blockers | Next Actions |
-|-----|------|-------------------------------|-----------------|-----------------|-------|-----|----------|--------------|
+| --- | ---- | ----------------------------- | --------------- | --------------- | ----- | --- | -------- | ------------ |
 | D1  |      |                               |                 |                 |       |     |          |              |
 | D2  |      |                               |                 |                 |       |     |          |              |
 | D3  |      |                               |                 |                 |       |     |          |              |
@@ -1194,7 +1194,7 @@ status: Open
 
 ---
 
-### PASS/FAIL — Agent 9 Package
+### PASS/FAIL — Agent 11 Package
 
 - **PASS** if: test plan + harness fields defined; defect template present; prioritized defect list with owners & fixes; Top 10 improvement plan included; example bugs provided. Else **FAIL**.
 
@@ -1359,7 +1359,7 @@ Also produce a Rollback Plan and a Maintenance Mode message in case of outage.
 1. **Open Landbot** → *Settings → Channels → Web* → toggle **Embed ON** → copy the **script**.
 2. **Allowlisted domains**: add your site domain(s).
 3. **Add script to site header**:
-   - **Shopify**: Online Store → Themes → *Edit code* → `theme.liquid` → paste \*\*before \*\*\`\` → Save.
+   - **Shopify**: Online Store → Themes → *Edit code* → `theme.liquid` → paste before `</head>` → Save.
    - **Wix**: Settings → **Tracking & Analytics** → **Custom Code** → paste → **All pages**, load **Head**.
    - **Squarespace**: Settings → **Advanced → Code Injection → Header** → paste.
    - **WordPress**: Use **Header & Footer** plugin → paste in **Header**.
@@ -1470,7 +1470,7 @@ Provide the owner with: **links to KB/Unknowns sheets, Slack channel, order look
 
 ---
 
-## Agent 9 — Client Success & Pricing (Day 7)
+## Agent 11 — Client Success & Pricing (Day 7)
 
 ### SYSTEM PROMPT (paste as system)
 
@@ -1591,7 +1591,7 @@ We just finished a 7‑day pilot for our tiny AI support widget and it cut repea
 
 ---
 
-#### PASS/FAIL — Agent 9 Package
+#### PASS/FAIL — Agent 11 Package
 
 - **PASS** if: check‑in email template present with metrics + top‑3 unanswered, 3‑tier pricing with clear inclusions, bullet‑point agreement terms, invoice template (table + CSV), and referral ask. Else **FAIL**.
 
