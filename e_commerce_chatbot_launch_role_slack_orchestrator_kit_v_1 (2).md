@@ -1202,7 +1202,7 @@ status: Open
 
 ---
 
-## Agent 7 — Outreach & Lead Gen (Day 5)
+## Agent 11 — Sales Ops & Lead Gen (Day 5)
 
 ### SYSTEM PROMPT (paste as system)
 
@@ -1599,7 +1599,7 @@ We just finished a 7‑day pilot for our tiny AI support widget and it cut repea
 
 ---
 
-## Agent 9 — Client Success & Pricing (Day 7)
+## Agent 11 — Client Success & Pricing (Day 7)
 
 ### SYSTEM PROMPT (paste as system)
 
@@ -1883,7 +1883,7 @@ Draft a weekly client report: assisted X customers, resolution rate Y%, top topi
 
 ---
 
-## Agent 11 — Compliance & Safety
+## Agent 9 — Compliance & Safety
 
 ### SYSTEM PROMPT (paste as system)
 
@@ -2265,7 +2265,7 @@ This addendum integrates the “Niche Pull Site Strategy for Small E‑Commerce 
 
 - **Beauty & Skincare** — ingredients, shipping, returns clarity (no medical advice).
 - **Pets** — subscriptions, sizing/fit (harness/collar), returns.
-- **Craft/Hobby** — shipping times, kit contents, returns/exchanges.
+- **Home & Décor** — shipping windows, décor kit contents, returns/exchanges.
 
 **Runners‑up (phase 2):** Indie Baby/Kids (safety disclaimers), Eco‑friendly brands, POD Apparel (traffic not primary lead intent), Specialty Food (regulatory load: secondary).
 
@@ -2330,9 +2330,9 @@ This addendum integrates the “Niche Pull Site Strategy for Small E‑Commerce 
 
 **Hero:** AI Chatbots for Pet Brands & Subscriptions **Value bullets:** Sizing/fit guidance links; subscription prompts; order status linking; safe deferrals; weekly KPIs. **CTA:** Get the Starter FAQ Pack • Book a 15‑min Fit Call
 
-### /craft
+### /home
 
-**Hero:** AI Chatbots for Hobby & Craft Stores **Value bullets:** Kit contents & shipping windows; returns/exchanges clarity; order lookup; capture pre‑sale emails; weekly KPIs. **CTA:** Get the Starter FAQ Pack • Book a 15‑min Fit Call
+**Hero:** AI Chatbots for Home & Décor Stores **Value bullets:** Décor kit contents & shipping windows; returns/exchanges clarity; order lookup; capture pre‑sale emails; weekly KPIs. **CTA:** Get the Starter FAQ Pack • Book a 15‑min Fit Call
 
 > Each niche page reuses the same layout as /faqfix & /leadflow, swapping the bullets + examples.
 
@@ -2373,13 +2373,13 @@ This addendum integrates the “Niche Pull Site Strategy for Small E‑Commerce 
 
 ## Owners & timeline (72‑hour launch)
 
-- **A11 Sales Ops:** publish `/beauty`, `/pets`, `/craft` and the 3 LPs; add header/footer links; partner outreach x3.
+- **A11 Sales Ops:** publish `/beauty`, `/pets`, `/home` and the 3 LPs; add header/footer links; partner outreach x3.
 - **A12 Marketing & Scale:** publish 3 posts (Checklist, Trust, Speed), then syndicate two; schedule next 2 posts.
 - **A6 Automations:** confirm `/api/lead` posts to `leads` with dedupe; Slack ping #sales.
 - **A10 Analytics:** GA4, GSC, UTM conventions; add weekly pivot by `niche`.
 - **A1 Platform:** verify Resend domain for `notify.replybyai.com`.
 
-**D0 (today):** LP `/launch-checklist` live; GA4 & GSC wired; Slack ping active. **D1:** `/beauty` & `/pets` live; publish “Long‑tail SEO” + “Trust checklist”. **D2:** `/craft` + `/free-audit` live; post “Speed guide”; community answers; partner emails.
+**D0 (today):** LP `/launch-checklist` live; GA4 & GSC wired; Slack ping active. **D1:** `/beauty` & `/pets` live; publish “Long‑tail SEO” + “Trust checklist”. **D2:** `/home` + `/free-audit` live; post “Speed guide”; community answers; partner emails.
 
 ---
 
