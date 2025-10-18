@@ -4,21 +4,21 @@ zaps:
     actions:
       - type: Formatter (redact)
       - type: Google Sheets Append Row
-        sheet: Interactions
-        range: A:K
+        sheet: Interactions (tab)
+        range: A:K  # example: columns A through K
   - name: Unknown to Slack
     trigger: Tag unknown_needed OR fallback no KB match
     actions:
       - type: Slack Webhook
         channel: ops-bot
       - type: Google Sheets Append Row
-        sheet: Unknowns
-        range: A:G
+        sheet: Unknowns (tab)
+        range: A:G  # example: columns A through G
   - name: Sales pipeline
     trigger: Prospects new row
     actions:
       - type: Slack Webhook
         channel: sales
       - type: Google Sheets Append Row
-        sheet: Prospects
-        range: A:H
+        sheet: Prospects (tab)
+        range: A:H  # example: columns A through H

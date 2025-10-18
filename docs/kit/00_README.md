@@ -10,6 +10,17 @@ Artifacts included:
 - docs/kit/faqpacks/pets.json
 - docs/kit/faqpacks/home_garden.json
 
+### FAQ packs → CSV
+
+- Validate packs against `docs/kit/faqpacks/schema.json` and generate deterministic CSVs.
+- Command:
+
+```
+npm run faq:csv
+```
+
+Outputs CSVs to `docs/kit/faqpacks/generated/` with headers: `vertical,question,answer,tone,source_notes`.
+
 ## Tone column guidance
 Use `Tone` to hint the reply style per row:
 - `brand_default`: Use the brand’s standard tone from prompts.
