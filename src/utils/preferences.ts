@@ -1,4 +1,3 @@
-import { AllHTMLAttributes } from "react";
 import { proxy, subscribe } from "valtio";
 import { proxyMap } from "valtio/utils";
 
