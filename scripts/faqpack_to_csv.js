@@ -5,7 +5,19 @@ if (!path) {
   console.error('Usage: node scripts/faqpack_to_csv.js <path-to-faqpack.json>');
   process.exit(1);
 }
-const data = JSON.parse(fs.readFileSync(path, 'utf8'));
+let data;
+try {
+  data = JSON.parse(fs.readFileSync(path, 'utf8'));
+} catch (err) {
+  if (err.code === 'ENOENT') {
+    console.error(`Error: File not found at path "${path}".`);
+  } else if (err instanceof SyntaxError) {
+    console.error(`Error: Invalid JSON in file "${path}".`);
+  } else {
+    console.error(`Error reading or parsing file "${path}":`, err.message);
+  }
+  process.exit(1);
+}
 const vertical = Object.keys(data)[0];
 const intents = data[vertical];
 console.log('Q,A,Tone,Source/Notes');
