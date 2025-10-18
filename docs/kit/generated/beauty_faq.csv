@@ -1,0 +1,11 @@
+Q,A,Tone,Source/Notes
+"how long is shipping?","For most US orders, delivery is {{ship_time_us}}. International orders take about {{ship_time_intl}}. You’ll get a tracking link as soon as it ships.","friendly, concise, ≤60 words","faqpack:beauty/shipping_times"
+"what's your return policy?","We offer {{return_window_days}}-day returns on unopened items. For exchanges, start an RMA and we’ll help with the swap.","friendly, concise, ≤60 words","faqpack:beauty/returns_exchanges"
+"is this nut-free?","You can view full ingredients on each product page. If you have allergies, please patch test first and consult a professional for medical concerns.","friendly, concise, ≤60 words","faqpack:beauty/ingredients_allergens"
+"how do I use this?","General routine: cleanse → treat/serum → moisturize → SPF (AM). For {{product_name}}, apply {{usage_instructions_short}}.","friendly, concise, ≤60 words","faqpack:beauty/how_to_use_routine"
+"help me find my shade","Try our shade finder quiz for undertone + depth. You can also DM a photo in natural light for a closer match.","friendly, concise, ≤60 words","faqpack:beauty/shade_match"
+"is this vegan?","{{brand_name}} is {{vegan_status}} and {{cruelty_free_status}}. Look for the badges on each product page.","friendly, concise, ≤60 words","faqpack:beauty/vegan_cruelty_free"
+"safe for sensitive skin?","Every skin is unique—please patch test on a small area first. For medical or dermatology advice, consult a professional.","friendly, concise, ≤60 words","faqpack:beauty/sensitive_skin_patch_test"
+"any discounts?","Active promos show at checkout. Most codes can’t be stacked—try the best one for your cart.","friendly, concise, ≤60 words","faqpack:beauty/promo_codes"
+"when is it back in stock?","I can alert you the moment {{product_name}} restocks. What’s the best email to use?","friendly, concise, ≤60 words","faqpack:beauty/restock_alerts"
+"can I cancel my order?","We can help if your order hasn’t shipped yet. Share your order # and the change you need—I'll check status now.","friendly, concise, ≤60 words","faqpack:beauty/order_change_cancel"

@@ -1,3 +1,4 @@
+# Note: Vertical packs live in docs/kit/faqpacks/*.json. Use scripts/faqpack_to_csv to append vertical rows.
 Q,A,Tone,Source/Notes
 "What are your shipping options and costs?","We offer Standard (free over $[THRESHOLD]) and Expedited at checkout. Costs show after your address. You’ll get a tracking link once it ships.","friendly, concise, ≤60 words","Shipping policy: https://[STORE]/policies/shipping-policy • Confirm threshold and regions"
 "How long does delivery take?","Standard: [X–Y] business days; Expedited: [X–Y]. Processing takes [1–2] days. Holidays can add time. You’ll receive tracking by email/SMS.","friendly, concise, ≤60 words","Shipping policy + carrier SLAs"
