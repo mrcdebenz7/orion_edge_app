@@ -1,0 +1,16 @@
+required:
+  - 01_stack.md
+  - 02_scope_faq.csv
+  - 03_flow_spec.json
+  - 04_prompts.md
+  - 05_sheets_setup.md
+  - 06_zaps_make.yaml
+  - 07_provisioning.md
+  - 08_integrations.md
+  - 09_qa_checklist.md
+  - 10_kpi_rollup.md
+  - 11_sales_playbook.md
+  - 12_monitoring.md
+  - 13_pull_site_strategy.md
+notes: "Marketing Kit v1 in docs/kit/marketing; vertical FAQ packs in docs/kit/faqpacks; use scripts/faqpack_to_csv.js to generate CSV."
+

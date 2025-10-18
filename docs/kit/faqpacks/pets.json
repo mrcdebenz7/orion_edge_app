@@ -1,0 +1,69 @@
+{
+  "pets": [
+    {
+      "intent": "sizing_harness_collar",
+      "utterances": ["what size should I get?", "how do I measure my dog?"],
+      "reply": "Measure around the chest (widest part) and neck, then compare to our chart. If between sizes, we suggest the larger fit for comfort.",
+      "actions": ["send_size_chart","capture_breed_weight_optional"],
+      "links": {"size_chart":"{{size_guide_url}}"}
+    },
+    {
+      "intent": "food_subscription",
+      "utterances": ["how do subscriptions work?", "can I pause my autoship?"],
+      "reply": "Choose your schedule at checkout. You can skip, pause, or cancel any time from your account—no fees.",
+      "actions": ["open_subscription_portal"]
+    },
+    {
+      "intent": "ingredients_dietary",
+      "utterances": ["is this grain-free?", "does it contain chicken?"],
+      "reply": "Ingredients are listed on each product page. For allergies or special diets, please consult your vet for medical advice.",
+      "actions": ["deep_link_product_ingredients"],
+      "guardrails": "No veterinary advice; escalate if user requests diagnosis, treatment, or dosage."
+    },
+    {
+      "intent": "returns_policy_used_items",
+      "utterances": ["can I return if my dog wore it?", "chew damage?"],
+      "reply": "Unused items are returnable within {{return_window_days}} days. For wear/chew issues, message us—some items may be covered under our guarantee.",
+      "actions": ["open_rma_portal"],
+      "links": {"policy":"{{returns_url}}"}
+    },
+    {
+      "intent": "washing_care",
+      "utterances": ["how do I wash the harness?", "bed care instructions?"],
+      "reply": "Most soft goods are hand-wash cold and air-dry. Check your product tag or page for specifics.",
+      "actions": ["send_care_pdf_if_available"]
+    },
+    {
+      "intent": "shipping_threshold",
+      "utterances": ["free shipping?", "shipping cost?"],
+      "reply": "US shipping is {{ship_time_us}}; free shipping on orders over {{free_ship_threshold}}.",
+      "actions": [],
+      "links": {"policy":"{{shipping_policy_url}}"}
+    },
+    {
+      "intent": "order_status_lookup",
+      "utterances": ["where’s my order?", "track my package"],
+      "reply": "Share your order # and email, and I’ll fetch the latest tracking update.",
+      "actions": ["lookup_order","send_tracking_link_if_available"]
+    },
+    {
+      "intent": "multi_pet_bundles",
+      "utterances": ["do you have bundles?", "discount for two dogs?"],
+      "reply": "Yes—our multi-pet bundles save more than buying separately. Want me to show the most popular sets?",
+      "actions": ["recommend_bundle","show_bundle_page"]
+    },
+    {
+      "intent": "restock_notify",
+      "utterances": ["when will size small be back?", "notify me"],
+      "reply": "I can email you the minute size {{variant}} is back. What’s the best email?",
+      "actions": ["create_restock_alert","capture_email"]
+    },
+    {
+      "intent": "warranty_guarantee",
+      "utterances": ["is there a warranty?", "what if it breaks?"],
+      "reply": "{{brand_name}} offers a {{warranty_term}} warranty on manufacturing defects. Start a claim and our team will help from there.",
+      "actions": ["open_warranty_flow"],
+      "links": {"policy":"{{warranty_url}}"}
+    }
+  ]
+}

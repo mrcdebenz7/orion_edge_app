@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "updated": "2025-10-18T13:31:33.201112",
+  "presets": [
+    {
+      "name": "YouTube Banner",
+      "size_px": [
+        2560,
+        1440
+      ],
+      "notes": "Text in 1546x423 center"
+    },
+    {
+      "name": "LinkedIn Cover",
+      "size_px": [
+        1584,
+        396
+      ],
+      "notes": "Crest \u226472% height"
+    },
+    {
+      "name": "X Header",
+      "size_px": [
+        1500,
+        500
+      ],
+      "notes": "Left 280px avatar safe"
+    },
+    {
+      "name": "IG Square",
+      "size_px": [
+        1080,
+        1080
+      ],
+      "notes": "120px padding"
+    },
+    {
+      "name": "IG Portrait",
+      "size_px": [
+        1080,
+        1350
+      ],
+      "notes": "Top-heavy composition"
+    },
+    {
+      "name": "YT Thumbnail",
+      "size_px": [
+        1280,
+        720
+      ],
+      "notes": "Title \u226438 chars"
+    },
+    {
+      "name": "Hero Desktop",
+      "size_px": [
+        1920,
+        1080
+      ],
+      "notes": "Left-aligned grid"
+    },
+    {
+      "name": "Hero Mobile",
+      "size_px": [
+        1080,
+        1350
+      ],
+      "notes": "Center-aligned"
+    }
+  ]
+}
