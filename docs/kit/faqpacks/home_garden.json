@@ -1,65 +1,9 @@
 {
-  "home_garden": [
-    {
-      "intent": "delivery_scheduling_large_items",
-      "utterances": ["how do you deliver furniture?", "do you schedule delivery?"],
-      "reply": "Large items ship via carrier with scheduling. You’ll receive a call/text to pick a delivery window.",
-      "actions": ["send_carrier_contact","status_check_if_order"]
-    },
-    {
-      "intent": "returns_oversize",
-      "utterances": ["can I return a sofa?", "restocking fee?"],
-      "reply": "Oversized returns are accepted within {{return_window_days}} days. A {{restock_fee_percent}}% restocking fee may apply; we’ll help arrange pickup.",
-      "actions": ["open_rma_portal"],
-      "links": {"policy":"{{returns_url}}"}
-    },
-    {
-      "intent": "assembly_requirements",
-      "utterances": ["is assembly required?", "do you include tools?"],
-      "reply": "Most items ship with basic hardware and a guide. I can send the PDF manual or recommend assembly services in your area.",
-      "actions": ["send_assembly_pdf","offer_installer_referrals"]
-    },
-    {
-      "intent": "dimensions_will_it_fit",
-      "utterances": ["will this fit my space?", "what are the dimensions?"],
-      "reply": "Here are the key dimensions: {{dimensions_summary}}. Tip: tape the footprint on your floor to confirm fit and clearance.",
-      "actions": ["deep_link_product_dimensions"]
-    },
-    {
-      "intent": "materials_care",
-      "utterances": ["what is it made of?", "how do I clean it?"],
-      "reply": "Materials: {{materials}}. Care: {{care_instructions_short}}. I can send the full care guide if you’d like.",
-      "actions": ["send_care_pdf_if_available"]
-    },
-    {
-      "intent": "color_variation_disclaimer",
-      "utterances": ["will the wood look exactly like photos?", "color variation?"],
-      "reply": "Natural materials vary in grain and tone; minor differences are normal. We try to match photography as closely as possible.",
-      "actions": []
-    },
-    {
-      "intent": "indoor_outdoor_rating",
-      "utterances": ["is this okay outdoors?", "weather resistant?"],
-      "reply": "This item is rated for {{rating}} use. For outdoor pieces, we recommend covers and winter storage to extend life.",
-      "actions": []
-    },
-    {
-      "intent": "preorder_backorder_eta",
-      "utterances": ["when will backorders ship?", "preorder ETA?"],
-      "reply": "Current ETA for {{product_name}} is {{eta_date}}. I can email you as soon as it’s ready to ship.",
-      "actions": ["capture_email","create_notify_task"]
-    },
-    {
-      "intent": "local_pickup_white_glove",
-      "utterances": ["can I pick up locally?", "white-glove delivery?"],
-      "reply": "We offer local pickup at {{warehouse_city}} and optional white-glove delivery in select areas.",
-      "actions": ["send_pickup_details","quote_white_glove_option"]
-    },
-    {
-      "intent": "damaged_missing_parts",
-      "utterances": ["my item arrived damaged", "missing hardware"],
-      "reply": "I’m sorry about that. Share your order # and a photo of the issue—we’ll rush replacements or set up a repair.",
-      "actions": ["create_support_ticket","ship_replacement_parts"]
-    }
-  ]
+    "faqs": [
+        {
+            "vertical": "home_garden",
+            "question": "Do you offer a warranty on garden tools?",
+            "answer": "Yes, our garden tools come with a one-year limited warranty."
+        }
+    ]
 }
