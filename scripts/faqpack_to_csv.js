@@ -12,5 +12,7 @@ console.log('Q,A,Tone,Source/Notes');
 for (const it of intents) {
     const q = (it.utterances && it.utterances[0]) || it.intent;
     const a = (it.reply || '').replace(/\n+/g, ' ').trim();
-    console.log(`"${q}","${a}","friendly, concise, ≤60 words","faqpack:${vertical}/${it.intent}"`);
+    const qEscaped = String(q).replace(/"/g, '""');
+    const aEscaped = String(a).replace(/"/g, '""');
+    console.log(`"${qEscaped}","${aEscaped}","friendly, concise, ≤60 words","faqpack:${vertical}/${it.intent}"`);
 }
