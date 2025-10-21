@@ -35,7 +35,7 @@ Best,
 | ----------- | ----- | ------- | -------- | ----- |
 | **Basic**   | $300  | $75/mo  | Web chat widget, 15 core FAQs, AI fallback, Unknowns→Slack, weekly KPI digest, 1 update/month | ≤1,500 interactions/mo; email support ≤2 business days. |
 | **Pro**     | $600  | $200/mo | Everything in Basic + Shopify order lookup proxy (read-only), Messenger fallback, 2 updates/month, quarterly A/B test | ≤5,000 interactions/mo; priority email ≤1 business day. |
-| **Growth**  | $1,200| $400/mo | Everything in Pro + monthly live review, KPI workbook, custom flow per quarter, priority incident response | ≤12,000 interactions/mo; shared on-call during business hours. |
+| **Growth**  | $1,200 | $400/mo | Everything in Pro + monthly live review, KPI workbook, custom flow per quarter, priority incident response | ≤12,000 interactions/mo; shared on-call during business hours. |
 
 **Overages:** +$25 per additional 1,000 interactions. **Pauses:** month-to-month; pause anytime. **Compliance:** bot never handles payment data; Messenger replies respect the 24-hour rule.
 
