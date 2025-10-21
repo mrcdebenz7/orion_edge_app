@@ -48,11 +48,15 @@ function csvEscape(value) {
 
 console.log('Q,A,Tone,Source/Notes');
 for (const intent of intents) {
+    if (!intent?.intent) {
+        console.warn(`Skipping an item in "${path}" which is missing the required 'intent' property.`);
+        continue;
+    }
     const utterances = Array.isArray(intent.utterances) ? intent.utterances : [];
-    const question = utterances.length > 0 ? utterances[0] : (intent.intent ?? '');
+    const question = utterances.length > 0 ? utterances[0] : intent.intent;
     const answer = intent.reply ?? '';
-    const qEscaped = csvEscape(question || '');
+    const qEscaped = csvEscape(question);
     const aEscaped = csvEscape(answer);
-    const source = csvEscape(`faqpack:${vertical}/${intent.intent ?? ''}`);
+    const source = csvEscape(`faqpack:${vertical}/${intent.intent}`);
     console.log(`"${qEscaped}","${aEscaped}","friendly, concise, ≤60 words","${source}"`);
 }
