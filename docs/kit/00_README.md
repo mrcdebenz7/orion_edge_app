@@ -39,7 +39,7 @@ The launch is structured around a 7-day plan, with specific goals, agent tasks, 
 -   **Day 7: MVP Launch & Review/Pricing**
     -   **Goal:** Production MVP live; pricing & M1 plan set.
     -   **Agents:** 1, 3, 6, 10, 0
-    -   **Deliverables:** Pricing docs, M1 Plan
+    -   **Deliverables:** Pricing docs, M1 Plan, `docs/kit/marketing/orion_ai_bots_marketing_kit_v1.md`, `docs/kit/faqpacks/beauty.json`, `docs/kit/faqpacks/pets.json`, `docs/kit/faqpacks/home_garden.json`
 
 ## Roles & Responsibilities
 
@@ -47,4 +47,4 @@ Agent roles, responsibilities, and dependencies are defined in the [Roles Matrix
 
 ## Contribution Guidelines
 
-To maintain quality and consistency, all contributions must follow the guidelines and checklists outlined in the [Pull Request Guidelines](./PULL_REQUEST_GUIDELINES.md). Before submitting a deliverable, please ensure it meets all PASS criteria for that artifact.
+To maintain quality and consistency, all contributions must follow the guidelines and checklists outlined in the [Pull Request Guidelines](./PULL_REQUEST_GUIDELINES.md). Before submitting a deliverable, please ensure it meets all PASS criteria for that artifact. Vertical packs live in docs/kit/faqpacks/*.json. Use scripts/faqpack_to_csv.js to convert a pack to CSV.
