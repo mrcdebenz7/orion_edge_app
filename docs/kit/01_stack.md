@@ -150,7 +150,7 @@ trigger:
 action:
   app: Google Sheets
   action: "Append Row"
-  sheet: "Transcripts"
+  sheet: "Interactions"
   values:
     - timestamp: "{{trigger.timestamp}}"
     - user_id: "{{trigger.user_id}}"
