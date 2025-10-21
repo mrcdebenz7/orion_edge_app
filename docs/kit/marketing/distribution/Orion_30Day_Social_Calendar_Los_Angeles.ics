@@ -1,0 +1,1113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Orion//30-Day Social Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-1@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251019T180000Z
+DTEND:20251019T190000Z
+SUMMARY:Website: Blog — Blog #1 – 70–80% of boutique support = FAQ (how to automate safely)
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-2@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251019T230000Z
+DTEND:20251019T233000Z
+SUMMARY:Instagram: Reel — Hook: The 7 repetitive Qs your bot answers (WISMO, returns, sizing)
+DESCRIPTION:CTA: Boutique CX Lab | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-3@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251019T190000Z
+DTEND:20251019T193000Z
+SUMMARY:Facebook: Post — Reel mirror for boutique owners
+DESCRIPTION:CTA: Boutique CX Lab | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-4@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251019T170000Z
+DTEND:20251019T174500Z
+SUMMARY:X: Thread — WISMO in 5 minutes (with Loom GIF)
+DESCRIPTION:CTA: Blog #1 | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-5@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251020T000000Z
+DTEND:20251020T003000Z
+SUMMARY:LinkedIn: Founder Post — We just launched Orion—what this means for small e‑com teams
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-6@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251020T163000Z
+DTEND:20251020T173000Z
+SUMMARY:Website: Fix — Fix Fit Call route + replace placeholder emails + add canonicals/meta (changelog)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-7@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251020T180000Z
+DTEND:20251020T183000Z
+SUMMARY:Instagram: Carousel — 3 DMs your bot answers so you don’t have to (WISMO, Returns, Sizing)
+DESCRIPTION:CTA: Starter FAQ Pack | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-8@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251020T200000Z
+DTEND:20251020T203000Z
+SUMMARY:Instagram: Stories — Poll: Biggest pre‑purchase question? Keyword SIZE → demo
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-9@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251020T170000Z
+DTEND:20251020T173000Z
+SUMMARY:X: Short — Bots replace wait time, not care
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-10@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251020T174500Z
+DTEND:20251020T181500Z
+SUMMARY:LinkedIn: Use‑Case — Sizing Qs kill conversion—2‑step fix
+DESCRIPTION:CTA: Boutique CX Lab | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-11@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251021T170000Z
+DTEND:20251021T180000Z
+SUMMARY:Website: LP — Launch /boutique‑cx‑lab LP (form + booking)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-12@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251021T183000Z
+DTEND:20251021T190000Z
+SUMMARY:Instagram: Reel — Screen‑record: order lookup demo (enter order# → status)
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-13@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251022T010000Z
+DTEND:20251022T013000Z
+SUMMARY:Facebook: Text Post — Free script: WISMO flow for boutiques (link to Blog #1)
+DESCRIPTION:CTA: Blog #1 | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-14@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251021T170000Z
+DTEND:20251021T173000Z
+SUMMARY:X: Short — Before/After: DM triage (mini)
+DESCRIPTION:CTA: Boutique CX Lab | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-15@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251021T173000Z
+DTEND:20251021T180000Z
+SUMMARY:LinkedIn: Slides — How we do human handoff (no dead ends)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-16@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251022T164500Z
+DTEND:20251022T174500Z
+SUMMARY:Website: Blog — Blog #2 – Sizing & returns = fastest ROI for boutique chatbots
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-17@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251022T183000Z
+DTEND:20251022T190000Z
+SUMMARY:Instagram: Carousel — What the bot answers vs when it escalates (hybrid)
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-18@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251022T170000Z
+DTEND:20251022T174500Z
+SUMMARY:X: Thread — Hybrid > pure AI. Here’s why.
+DESCRIPTION:CTA: Blog #2 | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-19@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251022T173000Z
+DTEND:20251022T180000Z
+SUMMARY:LinkedIn: Mini‑Case — Answering 80% repeats 24/7 = fewer abandoned carts
+DESCRIPTION:CTA: Boutique CX Lab | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-20@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251023T170000Z
+DTEND:20251023T180000Z
+SUMMARY:Website: Automation — Starter FAQ Pack auto‑delivery live + short post: what’s inside
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-21@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251023T173000Z
+DTEND:20251023T180000Z
+SUMMARY:Instagram: Reel — Unboxing the Starter Pack
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-22@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251024T010000Z
+DTEND:20251024T013000Z
+SUMMARY:Facebook: Post — Free Boutique FAQ Pack (ship times, returns, sizing)
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-23@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251023T170000Z
+DTEND:20251023T173000Z
+SUMMARY:X: Short — Write returns answers at a 6th‑grade level
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-24@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251023T173000Z
+DTEND:20251023T180000Z
+SUMMARY:LinkedIn: Image — Screenshot of Starter Pack page + invite
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-25@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251024T164500Z
+DTEND:20251024T174500Z
+SUMMARY:Website: Trust — Add testimonial placeholder module + legal links in footer
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-26@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251024T170000Z
+DTEND:20251024T173000Z
+SUMMARY:Instagram: Carousel — DM scripts you can copy (5 frames from pack)
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-27@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251024T190000Z
+DTEND:20251024T193000Z
+SUMMARY:Instagram: Stories — Q&A sticker: Ask your #1 support headache
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-28@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251024T170000Z
+DTEND:20251024T173000Z
+SUMMARY:X: Short — Immediate answers > perfect prose
+DESCRIPTION:CTA: Boutique CX Lab | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-29@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251024T193000Z
+DTEND:20251024T200000Z
+SUMMARY:Facebook: Post — Share IG carousel natively
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-30@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251025T164500Z
+DTEND:20251025T174500Z
+SUMMARY:Website: Changelog — Week‑1 changelog + metrics
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-31@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251025T173000Z
+DTEND:20251025T180000Z
+SUMMARY:Instagram: Reel — Week‑1 recap + CTA to book a call
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-32@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251025T160000Z
+DTEND:20251025T163000Z
+SUMMARY:X: Short — Week‑1 shipped summary; next: Pet LP
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-33@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251026T000000Z
+DTEND:20251026T003000Z
+SUMMARY:LinkedIn: Founder Post — What boutiques told us in DMs (week‑1)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-34@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251026T180000Z
+DTEND:20251026T190000Z
+SUMMARY:Website: LP — Launch /petshop‑support‑hub LP
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-35@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251026T230000Z
+DTEND:20251026T233000Z
+SUMMARY:Instagram: Reel — Pet sizing demo (harness chest girth)
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-36@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251026T190000Z
+DTEND:20251026T193000Z
+SUMMARY:Facebook: Post — Pet LP share
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-37@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251026T170000Z
+DTEND:20251026T174500Z
+SUMMARY:X: Thread — Autoship FAQs in chat (pause/skip/edit)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-38@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251027T000000Z
+DTEND:20251027T003000Z
+SUMMARY:LinkedIn: Post — Subscriptions + chat = lower churn
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-39@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251027T163000Z
+DTEND:20251027T173000Z
+SUMMARY:Website: Blog — Blog #3 (Pet) – Reduce returns with pre‑purchase sizing Q&A
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-40@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251027T180000Z
+DTEND:20251027T183000Z
+SUMMARY:Instagram: Carousel — 4 prompts for Pet stores (from pack)
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-41@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251027T170000Z
+DTEND:20251027T173000Z
+SUMMARY:X: Short — Add quick‑replies in IG DMs for sizing
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-42@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251027T193000Z
+DTEND:20251027T200000Z
+SUMMARY:Facebook: Post — Mirror carousel (Pet)
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-43@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251028T170000Z
+DTEND:20251028T180000Z
+SUMMARY:Website: Template — Add case‑study template + metrics fields
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-44@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251028T183000Z
+DTEND:20251028T190000Z
+SUMMARY:Instagram: Stories — Poll: Dog or cat brand? Keyword PET → demo
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-45@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251028T170000Z
+DTEND:20251028T173000Z
+SUMMARY:X: Short — Human handoff copy that feels good
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-46@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251028T173000Z
+DTEND:20251028T180000Z
+SUMMARY:LinkedIn: Slides — Escalation policy (how we handoff)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-47@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251029T164500Z
+DTEND:20251029T174500Z
+SUMMARY:Website: Blog — Blog #4 – Hybrid bots: rules first, AI second
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-48@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251029T183000Z
+DTEND:20251029T190000Z
+SUMMARY:Instagram: Reel — Keyword‑first, AI‑second in action
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-49@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251029T170000Z
+DTEND:20251029T174500Z
+SUMMARY:X: Thread — Prompt guardrails we use (and why)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-50@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251030T010000Z
+DTEND:20251030T013000Z
+SUMMARY:Facebook: Post — Want our guardrail list? Grab the pack.
+DESCRIPTION:CTA: Starter Pack | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-51@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251030T170000Z
+DTEND:20251030T180000Z
+SUMMARY:Website: SEO — Unique meta for Pet LP + interlink blogs → LPs
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-52@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251030T173000Z
+DTEND:20251030T180000Z
+SUMMARY:Instagram: Carousel — Pet: Pre vs post‑purchase questions
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-53@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251030T173000Z
+DTEND:20251030T180000Z
+SUMMARY:LinkedIn: Use‑Case — Autoship deflection = fewer tickets
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-54@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251030T170000Z
+DTEND:20251030T173000Z
+SUMMARY:X: Short — Link to Pet LP
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-55@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251031T170000Z
+DTEND:20251031T173000Z
+SUMMARY:Instagram: Stories — AMA: Ask about chatbots for pets
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-56@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251031T170000Z
+DTEND:20251031T173000Z
+SUMMARY:X: Short — Two tips (schedule 2 posts)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-57@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251031T193000Z
+DTEND:20251031T200000Z
+SUMMARY:Facebook: Question — Community Q: What causes most returns?
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-58@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251101T164500Z
+DTEND:20251101T174500Z
+SUMMARY:Website: Changelog — Week‑2 changelog + soft metrics
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-59@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251101T173000Z
+DTEND:20251101T180000Z
+SUMMARY:Instagram: Reel — Pet week recap + CTA
+DESCRIPTION:CTA: Pet LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-60@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251102T000000Z
+DTEND:20251102T003000Z
+SUMMARY:LinkedIn: Founder Post — What we learned from Pet DMs
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-61@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251102T190000Z
+DTEND:20251102T200000Z
+SUMMARY:Website: LP — Launch /fitment‑chat‑academy LP
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-62@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251103T000000Z
+DTEND:20251103T003000Z
+SUMMARY:Instagram: Reel — Fitment flow: ‘Will this fit my 2015…?’
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-63@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251102T200000Z
+DTEND:20251102T203000Z
+SUMMARY:Facebook: Post — Auto LP share
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-64@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251102T180000Z
+DTEND:20251102T184500Z
+SUMMARY:X: Thread — VIN intake + decision tree (overview)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-65@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251103T010000Z
+DTEND:20251103T013000Z
+SUMMARY:LinkedIn: Post — Returns drop when fitment is answered up front
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-66@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251103T173000Z
+DTEND:20251103T183000Z
+SUMMARY:Website: Blog — Blog #5 (Auto) – Fitment Q&A reduces RMAs
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-67@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251103T190000Z
+DTEND:20251103T193000Z
+SUMMARY:Instagram: Carousel — 3 must‑have fitment prompts
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-68@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251103T180000Z
+DTEND:20251103T183000Z
+SUMMARY:X: Short — Install guides via chat (how‑to)
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-69@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251103T203000Z
+DTEND:20251103T210000Z
+SUMMARY:Facebook: Post — Mirror carousel (Auto)
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-70@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251104T180000Z
+DTEND:20251104T190000Z
+SUMMARY:Website: Changelog — Add Changelog page + Weekly Insights snapshot
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-71@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251104T193000Z
+DTEND:20251104T200000Z
+SUMMARY:Instagram: Stories — Quiz: Roof rack fit—yes/no?
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-72@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251104T183000Z
+DTEND:20251104T190000Z
+SUMMARY:LinkedIn: Slides — Order‑status lookups (Shopify) in chat
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-73@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251104T180000Z
+DTEND:20251104T183000Z
+SUMMARY:X: Short — Unknowns → polite email capture
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-74@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251105T174500Z
+DTEND:20251105T184500Z
+SUMMARY:Website: Blog — Blog #6 – Immediate answers vs abandoned carts
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-75@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251105T193000Z
+DTEND:20251105T200000Z
+SUMMARY:Instagram: Reel — Speed vs perfection (5‑sec reply)
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-76@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251105T180000Z
+DTEND:20251105T184500Z
+SUMMARY:X: Thread — Our escalation microcopy (examples)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-77@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251106T020000Z
+DTEND:20251106T023000Z
+SUMMARY:Facebook: Post — Link: Blog #6
+DESCRIPTION:CTA: Blog #6 | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-78@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251106T180000Z
+DTEND:20251106T190000Z
+SUMMARY:Website: Trust — Add testimonial request block; start collecting quotes
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-79@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251106T183000Z
+DTEND:20251106T190000Z
+SUMMARY:Instagram: Carousel — Pricing tiers at a glance (DIY/DFY/Premium)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-80@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251106T183000Z
+DTEND:20251106T190000Z
+SUMMARY:LinkedIn: Post — Month‑to‑month, pause anytime (positioning)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-81@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251106T180000Z
+DTEND:20251106T183000Z
+SUMMARY:X: Short — DFY means no 11pm flow edits
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-82@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251107T180000Z
+DTEND:20251107T183000Z
+SUMMARY:Instagram: Stories — Behind‑the‑scenes: building a flow
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-83@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251107T180000Z
+DTEND:20251107T183000Z
+SUMMARY:X: Short — Q&A prompt (post #1)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-84@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251107T200000Z
+DTEND:20251107T203000Z
+SUMMARY:X: Short — Q&A prompt (post #2)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-85@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251107T203000Z
+DTEND:20251107T210000Z
+SUMMARY:Facebook: Post — Community share: tip of the week
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-86@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251108T174500Z
+DTEND:20251108T184500Z
+SUMMARY:Website: Changelog — Week‑3 changelog + progress
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-87@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251108T183000Z
+DTEND:20251108T190000Z
+SUMMARY:Instagram: Reel — Auto week recap
+DESCRIPTION:CTA: Auto LP | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-88@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251109T010000Z
+DTEND:20251109T013000Z
+SUMMARY:LinkedIn: Founder Post — 3 lessons from Auto LP launch
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-89@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251109T190000Z
+DTEND:20251109T200000Z
+SUMMARY:Website: Blog — Blog #7 – How we measure ROI in boutiques (simple math)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-90@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251110T000000Z
+DTEND:20251110T003000Z
+SUMMARY:Instagram: Carousel — ROI math in 5 frames
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-91@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251109T180000Z
+DTEND:20251109T184500Z
+SUMMARY:X: Thread — Weekly insights: handled tickets + leads
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-92@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251110T010000Z
+DTEND:20251110T013000Z
+SUMMARY:LinkedIn: Post — ROI calculator screenshot + narrative
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-93@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251110T173000Z
+DTEND:20251110T183000Z
+SUMMARY:Website: Index — Case Studies index + 2 mini‑cases (anonymized)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-94@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251110T190000Z
+DTEND:20251110T193000Z
+SUMMARY:Instagram: Reel — Mini‑case: sizing replies cut returns
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-95@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251110T203000Z
+DTEND:20251110T210000Z
+SUMMARY:Facebook: Post — Share case index
+DESCRIPTION:CTA: Case Index | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-96@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251110T180000Z
+DTEND:20251110T183000Z
+SUMMARY:X: Short — New case minis live
+DESCRIPTION:CTA: Case Index | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-97@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251111T180000Z
+DTEND:20251111T190000Z
+SUMMARY:Website: Playbook — Blog #8 – DM triage on IG for boutiques (no code)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-98@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251111T193000Z
+DTEND:20251111T200000Z
+SUMMARY:Instagram: Stories — Swipe‑up to playbook + Q sticker
+DESCRIPTION:CTA: Playbook | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-99@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251111T183000Z
+DTEND:20251111T190000Z
+SUMMARY:LinkedIn: Slides — No‑code builder: speed to value
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-100@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251111T180000Z
+DTEND:20251111T184500Z
+SUMMARY:X: Thread — Ship a bot in 48 hours (steps)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-101@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251112T174500Z
+DTEND:20251112T184500Z
+SUMMARY:Website: SEO — Tighten internal linking + unique meta for stragglers
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-102@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251112T193000Z
+DTEND:20251112T200000Z
+SUMMARY:Instagram: Carousel — What you get when you sign (deliverables)
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-103@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251113T020000Z
+DTEND:20251113T023000Z
+SUMMARY:Facebook: Post — Deliverables list (long caption)
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-104@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251112T180000Z
+DTEND:20251112T183000Z
+SUMMARY:X: Short — It’s not a widget; it’s an assistant
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-105@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251113T180000Z
+DTEND:20251113T190000Z
+SUMMARY:Website: Pricing — Publish Pricing/Tiers explainer (if ready)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-106@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251113T183000Z
+DTEND:20251113T190000Z
+SUMMARY:Instagram: Reel — Founder: who this is for / not for
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-107@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251113T183000Z
+DTEND:20251113T190000Z
+SUMMARY:LinkedIn: Post — Our guarantees + handoff SLAs
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-108@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251113T180000Z
+DTEND:20251113T183000Z
+SUMMARY:X: Short — Direct CTA push: Book a fit call
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-109@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251114T180000Z
+DTEND:20251114T183000Z
+SUMMARY:Instagram: Stories — Poll: Pick your plan (keyword PLAN)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-110@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251114T203000Z
+DTEND:20251114T210000Z
+SUMMARY:Facebook: FAQ — Will this work with Shopify? (yes + caveats)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-111@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251114T180000Z
+DTEND:20251114T183000Z
+SUMMARY:X: Short — Keep replies ≤60 words
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-112@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251115T174500Z
+DTEND:20251115T184500Z
+SUMMARY:Website: Changelog — Week‑4 changelog + month summary preview
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-113@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251115T183000Z
+DTEND:20251115T190000Z
+SUMMARY:Instagram: Reel — Month recap + best comment
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-114@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251116T010000Z
+DTEND:20251116T013000Z
+SUMMARY:LinkedIn: Founder Post — Month‑1: what surprised us
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-115@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251116T190000Z
+DTEND:20251116T200000Z
+SUMMARY:Website: Report — Month‑1 public report (posts, opt‑ins, calls, next)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-116@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251117T000000Z
+DTEND:20251117T003000Z
+SUMMARY:Instagram: Carousel — What’s coming in Month‑2 (tease a niche demo)
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-117@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251116T180000Z
+DTEND:20251116T184500Z
+SUMMARY:X: Thread — Everything we shipped in 30 days
+DESCRIPTION:CTA: — | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-118@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251116T200000Z
+DTEND:20251116T203000Z
+SUMMARY:Facebook: Post — Share month report
+DESCRIPTION:CTA: Month Report | TZ: America/Los_Angeles
+LOCATION:Facebook
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-119@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251117T173000Z
+DTEND:20251117T183000Z
+SUMMARY:Website: Banner — Last 48h for early‑adopter pricing—book this week
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Website
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-120@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251117T190000Z
+DTEND:20251117T193000Z
+SUMMARY:Instagram: Reel — Final CTA push + countdown
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-121@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251117T210000Z
+DTEND:20251117T213000Z
+SUMMARY:Instagram: Stories — Countdown sticker live
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:Instagram
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-122@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251117T184500Z
+DTEND:20251117T191500Z
+SUMMARY:LinkedIn: Post — Straight CTA + proof bullets
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:LinkedIn
+END:VEVENT
+BEGIN:VEVENT
+UID:orion-America/Los_Angeles-123@calendar
+DTSTAMP:20251016T200717Z
+DTSTART:20251117T180000Z
+DTEND:20251117T183000Z
+SUMMARY:X: Pinned Update — Update pinned tweet with CTA + LP links
+DESCRIPTION:CTA: Fit Call | TZ: America/Los_Angeles
+LOCATION:X
+END:VEVENT
+END:VCALENDAR
