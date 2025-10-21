@@ -47,8 +47,8 @@
 - **Storage:** Google Sheets (4 tabs per `05_sheets_setup.md`)
   - `Core_FAQs` (15 rows)
   - `Vertical_FAQs` (30 rows, 3 niches)
-  - `Transcripts` (append-only log)
-  - `KPI_Rollup` (weekly summary)
+  - `Interactions` (append-only log)
+  - `Weekly Summary` (weekly KPI rollup)
 - **Search:** VLOOKUP or QUERY formulas
 - **Sync:** Manual CSV upload weekly
 
@@ -150,7 +150,7 @@ trigger:
 action:
   app: Google Sheets
   action: "Append Row"
-  sheet: "Transcripts"
+  sheet: "Interactions"
   values:
     - timestamp: "{{trigger.timestamp}}"
     - user_id: "{{trigger.user_id}}"
