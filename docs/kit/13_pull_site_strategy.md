@@ -23,7 +23,7 @@
 5. Welcome Series: 3-Email Template
 6. Beauty niche FAQs (top 15)
 7. Pets niche FAQs (top 15)
-8. Craft niche FAQs (top 15)
+8. Home niche FAQs (top 15)
 9. A/B Ideas: Greeting & Quick Replies
 10. Mini Case: +25% CVR in 3 months
 
