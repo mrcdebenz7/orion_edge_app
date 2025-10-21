@@ -4,8 +4,8 @@
  * - Dev-only tool filters (hide in production)
  */
 export type Preferences = {
-  theme: 'system'|'light'|'dark';
-  density: 'comfortable'|'compact';
+  theme: 'system' | 'light' | 'dark';
+  density: 'comfortable' | 'compact';
   showDevTools: boolean;
   hiddenTools: string[];   // tool IDs hidden in this runtime
 }
