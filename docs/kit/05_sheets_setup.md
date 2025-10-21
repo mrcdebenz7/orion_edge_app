@@ -73,12 +73,12 @@ Restrict sharing to core agents; Zapier/Make connections should use service acco
 | `week_start`            | date     | Monday (ISO). |
 | `week_end`              | date     | Following Monday. |
 | `client`                | text     | Store name. |
-| `interactions`          | number   | `=COUNTIFS(Interactions!$A:$A,">="&B2,Interactions!$A:$A,"<"&C2,Interactions!$B:$B,$D2)` |
+| `interactions`          | number   | `=COUNTIFS(Interactions!$A:$A,">="&$A2,Interactions!$A:$A,"<"&$B2,Interactions!$B:$B,$C2)` |
 | `answered_in_chat`      | number   | Sum of KB hits plus fallback responses without handoff. |
-| `resolution_rate`       | percent  | `=IFERROR(E2/F2,0)` |
-| `leads`                 | number   | `=COUNTIFS(Leads!$A:$A,">="&B2,Leads!$A:$A,"<"&C2,Leads!$B:$B,$D2)` |
-| `handoffs`              | number   | `=COUNTIFS(Interactions!$A:$A,">="&B2,Interactions!$A:$A,"<"&C2,Interactions!$B:$B,$D2,Interactions!$I:$I,TRUE)` |
-| `avg_first_response_ms` | number   | `=AVERAGE(FILTER(Interactions!$H:$H,Interactions!$A:$A>=B2,Interactions!$A:$A<C2,Interactions!$B:$B=$D2))` |
+| `resolution_rate`       | percent  | `=IFERROR(E2/D2,0)` |
+| `leads`                 | number   | `=COUNTIFS(Leads!$A:$A,">="&$A2,Leads!$A:$A,"<"&$B2,Leads!$B:$B,$C2)` |
+| `handoffs`              | number   | `=COUNTIFS(Interactions!$A:$A,">="&$A2,Interactions!$A:$A,"<"&$B2,Interactions!$B:$B,$C2,Interactions!$I:$I,TRUE)` |
+| `avg_first_response_ms` | number   | `=AVERAGE(FILTER(Interactions!$H:$H,Interactions!$A:$A>=$A2,Interactions!$A:$A<$B2,Interactions!$B:$B=$C2))` |
 | `top_topic_1`           | text     | Pivot/`QUERY` on Interactions!E within week. |
 | `top_topic_2`           | text     | Same method. |
 | `top_topic_3`           | text     | Same method. |
