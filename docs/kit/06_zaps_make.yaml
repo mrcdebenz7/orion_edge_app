@@ -13,7 +13,8 @@ zaps:
       - type: formatter.redact
         settings:
           patterns:
-            - "(\\d{4}[ -]?){3}\\d{4}"   # card numbers
+            - "\\b(?:\\d{4}[-\\s]?){3}\\d{4}\\b"   # 16-digit card numbers (Visa, MC, etc.)
+            - "\\b\\d{4}[-\\s]?\\d{6}[-\\s]?\\d{5}\\b"   # 15-digit card numbers (AMEX)
             - "[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,}"
       - type: google_sheets.append_row
         sheet: Interactions
