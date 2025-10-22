@@ -1,6 +1,7 @@
 ## What
 - [ ] Kit files added/updated (list)
 - [ ] Marketing pages/LPs (list)
+ - [ ] Start from `docs/kit/000_START_WORK_TEMPLATE.md` (linked in README)
 
 ## Checks
 - [ ] Sheets ranges fixed (Interactions!A:K • Unknowns!A:G • Prospects!A:H)

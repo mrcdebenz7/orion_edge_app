@@ -2,6 +2,8 @@
 
 This kit provides the single source of truth for the chatbot launch. All artifacts are organized to align with the 7-day execution plan detailed in the [Orchestrator Kit](./chatbot_launch_role_slackkit_v_1.1.md).
 
+Start here: `000_START_WORK_TEMPLATE.md` — copy this when beginning any agent task.
+
 ## 7-Day Execution Plan
 
 The launch is structured around a 7-day plan, with specific goals, agent tasks, and deliverables for each day.
