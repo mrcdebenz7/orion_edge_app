@@ -9,13 +9,13 @@
 ### Zap 1 — Log every interaction to Google Sheets
 
 - **Trigger:** ManyChat/Landbot “New Conversation”
-- **Actions:** Formatter (clean text) → GSheet **Interactions!A**\*\*:K\*\*
+- **Actions:** Formatter (clean text) → GSheet **Interactions!A:K**
 - **Fields:** timestamp, client, user\_id, channel, intent, matched\_faq(bool), ai\_used(bool), response\_ms, handoff(bool), email\_captured, transcript\_url
 
 ### Zap 2 — Unknown → Slack ticket
 
 - **Trigger:** Tag `unknown_needed` OR fallback used + no KB match
-- **Actions:** LLM 2‑sentence summary → Slack Webhook **#ops‑bot** (Unknown template) → GSheet **Unknowns!A**\*\*:G\*\*
+- **Actions:** LLM 2‑sentence summary → Slack Webhook **#ops‑bot** (Unknown template) → GSheet **Unknowns!A:G**
 - **Auto‑assign:** rotate **@agent2** (FAQ) and **@agent4** (prompt)
 
 ### Zap 3 — Weekly KPI (Fri 9am)
@@ -26,7 +26,7 @@
 
 ### Zap 4 — Sales pipeline
 
-- **Trigger:** new row in **Prospects!A**\*\*:H\*\* or form submit
+- **Trigger:** new row in **Prospects!A:H** or form submit
 - **Actions:** Slack **#sales** message + follow‑up tasks (ClickUp/Notion optional)
 
 ### Zap 5 — Deploy notice

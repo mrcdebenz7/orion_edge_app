@@ -90,7 +90,7 @@ D5,,Slack,KPI Friday,#analytics-kpi,—,A10,Posted
 
 ## Pass/Fail (Month‑1)
 
-**PASS** if: (1) 3 niche pages + 2 LPs live, (2) ≥8 content posts shipped (≥2 blog), (3) KPI Friday cadence green, (4) **≥200 sends**, **≥10 replies**, **≥2 demos** booked, (5) partner commitment scheduled. Else FAIL.
+**PASS** if: (1) 3 niche pages + 3 LPs live, (2) ≥8 content posts shipped (≥2 blog), (3) KPI Friday cadence green, (4) **≥200 sends**, **≥10 replies**, **≥2 demos** booked, (5) partner commitment scheduled. Else FAIL.
 
 **Owners:**
 

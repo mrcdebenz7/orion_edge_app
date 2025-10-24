@@ -47,7 +47,7 @@ zaps:
           tag: unknown_needed
         - app: workflow
           event: fallback_no_kb
-    steps:
+    actions:
       - type: google_sheets.lookup
         sheet: Unknowns
         purpose: determine_next_owner
