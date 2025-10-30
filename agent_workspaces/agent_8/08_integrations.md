@@ -7,7 +7,7 @@
 - Website admin rights (Shopify/Wix/Squarespace/WordPress) to insert header scripts.
 - Domain allowlist privileges within Landbot/Typebot.
 - Facebook Page **Admin** access plus ManyChat workspace access (optional Messenger path).
-- Shared Google Sheets tabs (**KB**, **Interactions**, **Unknowns**, **KPI**, **Prospects**) with `automation@agency.com`.
+- Shared Google Sheets tabs (**KB**, **Interactions**, **Unknowns**, **Leads**, **Weekly Summary**) with `automation@agency.com`.
 - Slack Incoming Webhooks for `#ops-bot`, `#sales`, `#incidents`.
 - Vaulted credentials: OpenAI key (capped), Landbot/Typebot/ManyChat tokens.
 
