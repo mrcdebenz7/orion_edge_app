@@ -1,9 +1,0 @@
-{
-    "name": "orion_edge_app",
-    "private": true,
-    "version": "0.0.0",
-    "scripts": {
-        "faq:csv": "node scripts/faqpack_to_csv.js docs/kit/faqpacks src=./docs/kit/faqpacks out=./docs/kit/faqpacks/generated",
-        "test": "node tests/faq_csv.test.js"
-    }
-}
